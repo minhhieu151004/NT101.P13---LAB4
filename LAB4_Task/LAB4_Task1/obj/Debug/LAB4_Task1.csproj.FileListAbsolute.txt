@@ -1,0 +1,20 @@
+C:\Users\Admin\source\repos\LAB4_Task1\LAB4_Task1\bin\Debug\LAB4_Task1.exe.config
+C:\Users\Admin\source\repos\LAB4_Task1\LAB4_Task1\bin\Debug\LAB4_Task1.exe
+C:\Users\Admin\source\repos\LAB4_Task1\LAB4_Task1\bin\Debug\LAB4_Task1.pdb
+C:\Users\Admin\source\repos\LAB4_Task1\LAB4_Task1\obj\Debug\LAB4_Task1.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\LAB4_Task1\LAB4_Task1\obj\Debug\LAB4_Task1.Form1.resources
+C:\Users\Admin\source\repos\LAB4_Task1\LAB4_Task1\obj\Debug\LAB4_Task1.Properties.Resources.resources
+C:\Users\Admin\source\repos\LAB4_Task1\LAB4_Task1\obj\Debug\LAB4_Task1.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\LAB4_Task1\LAB4_Task1\obj\Debug\LAB4_Task1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\LAB4_Task1\LAB4_Task1\obj\Debug\LAB4_Task1.exe
+C:\Users\Admin\source\repos\LAB4_Task1\LAB4_Task1\obj\Debug\LAB4_Task1.pdb
+D:\Documents\NT101 - An toàn mạng máy tính\TH\Lab 4\LAB4\LAB4_Task1\LAB4_Task1\bin\Debug\LAB4_Task1.exe.config
+D:\Documents\NT101 - An toàn mạng máy tính\TH\Lab 4\LAB4\LAB4_Task1\LAB4_Task1\bin\Debug\LAB4_Task1.exe
+D:\Documents\NT101 - An toàn mạng máy tính\TH\Lab 4\LAB4\LAB4_Task1\LAB4_Task1\bin\Debug\LAB4_Task1.pdb
+D:\Documents\NT101 - An toàn mạng máy tính\TH\Lab 4\LAB4\LAB4_Task1\LAB4_Task1\obj\Debug\LAB4_Task1.csproj.AssemblyReference.cache
+D:\Documents\NT101 - An toàn mạng máy tính\TH\Lab 4\LAB4\LAB4_Task1\LAB4_Task1\obj\Debug\LAB4_Task1.Form1.resources
+D:\Documents\NT101 - An toàn mạng máy tính\TH\Lab 4\LAB4\LAB4_Task1\LAB4_Task1\obj\Debug\LAB4_Task1.Properties.Resources.resources
+D:\Documents\NT101 - An toàn mạng máy tính\TH\Lab 4\LAB4\LAB4_Task1\LAB4_Task1\obj\Debug\LAB4_Task1.csproj.GenerateResource.cache
+D:\Documents\NT101 - An toàn mạng máy tính\TH\Lab 4\LAB4\LAB4_Task1\LAB4_Task1\obj\Debug\LAB4_Task1.csproj.CoreCompileInputs.cache
+D:\Documents\NT101 - An toàn mạng máy tính\TH\Lab 4\LAB4\LAB4_Task1\LAB4_Task1\obj\Debug\LAB4_Task1.exe
+D:\Documents\NT101 - An toàn mạng máy tính\TH\Lab 4\LAB4\LAB4_Task1\LAB4_Task1\obj\Debug\LAB4_Task1.pdb
